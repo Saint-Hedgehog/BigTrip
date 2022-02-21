@@ -1,7 +1,7 @@
 # Проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: `Корецкий Вадим`(`https://github.com/Saint-Hedgehog`).
+* Наставник: `Корецкая Юлия`(`https://github.com/yulllll`).
 
 ---
 
