@@ -1,4 +1,4 @@
-# Проект «{{projectTitle}}»
+# Проект «Большое путешествие»
 
 * Студент: `Корецкий Вадим`(`https://github.com/Saint-Hedgehog`).
 * Наставник: `Корецкая Юлия`(`https://github.com/yulllll`).
